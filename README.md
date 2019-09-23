@@ -1,6 +1,6 @@
-# events
+# Events sample flutter app 
 
-A new Flutter application.
+A new Flutter application with Hero animation.
 
 ## Getting Started
 
